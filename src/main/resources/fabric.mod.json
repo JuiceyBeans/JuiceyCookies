@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "cookies",
+  "version": "${version}",
+  "name": "Alyx's Cookies",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/JuiceyBeans/AlyxCookies"
+  },
+  "license": "MPL-2.0",
+  "icon": "assets/cookies/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.juiceybeans.cookies.AlyxCookies"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
