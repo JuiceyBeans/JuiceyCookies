@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:ghast_tear"
+        },
+        {
+            "item": "minecraft:pufferfish"
+        },
+        {
+            "item": "minecraft:dragon_breath"
+        },
+        {
+            "item": "minecraft:blaze_rod"
+        },
+        {
+            "item": "minecraft:glistering_melon_slice"
+        }
+    ],
+    "result": {
+        "item": "cookies:cookie_reagent",
+        "count": 1
+    }
+}
