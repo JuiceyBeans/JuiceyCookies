@@ -8,14 +8,14 @@ I have turned my friends into cookies and put them into a Minecraft mod.
 
 - **Robyn Cookie:** COOKIES SO GOOD THEY LEAVE YOU WANTING TO EAT MORE 🥰... AND MORE... and more... more...
 - **The JuMaLu Cookie:** Contains enough sugar to kill God. Probably don't eat too much of this one
-- **The Cookie of Lilirine.:** Fuck around and find out.
+- **The Cookie of Lilirine:** Fuck around and find out.
 
 <details>
   <summary><b>(SPOILERS!)</b> What the cookies do</summary>
   
   - **Robyn Cookie:** Gives you regeneration and hunger for 3 seconds, but has a 60% chance of getting slowness for 10 seconds
   - **The JuMaLu Cookie:** Gives you speed 3 for 30 seconds but has a 50% chance to give you wither 3 for 5 seconds. Kills you if you eat more than 2 in one hour
-  - **The Cookie of Lilirine.:** Literally poisons you. (10 seconds)
+  - **The Cookie of Lilirine:** Literally poisons you. (10 seconds)
 </details>
 
 <br>More friends being turned into cookies soon.<br><br>
