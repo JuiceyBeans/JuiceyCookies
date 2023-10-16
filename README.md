@@ -21,4 +21,5 @@ I have turned my friends into cookies and put them into a Minecraft mod.
 <br>More friends being turned into cookies soon.<br><br>
 
 <h3>Socials</h3>
-<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-JuiceyBeans-purple?style=social&logo=github&logoColor=black&label=GitHub&labelColor=white&link=https%3A%2F%2Fgithub.com%2FJuiceyBeans%2FJuiceyTweaks"> |  <img alt="Static Badge" src="https://img.shields.io/badge/Discord-juiceybeans-purple?style=social&logo=discord&logoColor=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-JuiceyBeans-purple?style=social&logo=github&logoColor=black&label=GitHub&labelColor=white&link=https%3A%2F%2Fgithub.com%2FJuiceyBeans%2FJuiceyTweaks">
+<img alt="Static Badge" src="https://img.shields.io/badge/Discord-juiceybeans-purple?style=social&logo=discord&logoColor=black">
