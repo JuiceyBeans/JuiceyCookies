@@ -1,4 +1,4 @@
-# Alyx's Cookies
+# Juicey's Cookies
 ### Are these safe to eat?
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Requires-Fabric%20API-purple?style=flat-square&labelColor=white">  |  <img alt="Static Badge" src="https://img.shields.io/badge/Minecraft%20Versions-1.20.1-purple?style=flat-square&labelColor=white">  |  <img alt="Static Badge" src="https://img.shields.io/badge/License-MIT-purple?style=flat-square&labelColor=white">
