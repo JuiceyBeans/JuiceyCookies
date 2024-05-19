@@ -7,9 +7,9 @@ import net.fabricmc.fabric.api.event.player.UseItemCallback;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class AlyxCookies implements ModInitializer {
+public class JuiceyCookies implements ModInitializer {
 
-    public static final Logger LOGGER = LoggerFactory.getLogger("Alyx's Cookies");
+    public static final Logger LOGGER = LoggerFactory.getLogger("Juicey's Cookies");
     public static final String MOD_ID = "cookies";
 
     @Override

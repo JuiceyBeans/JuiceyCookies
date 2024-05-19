@@ -15,10 +15,13 @@
         },
         {
             "item": "minecraft:glistering_melon_slice"
+        },
+        {
+            "item": "minecraft:dragon_breath"
         }
     ],
     "result": {
         "item": "cookies:cookie_reagent",
-        "count": 1
+        "count": 2
     }
 }

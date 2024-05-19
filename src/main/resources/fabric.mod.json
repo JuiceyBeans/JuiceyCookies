@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "cookies",
   "version": "${version}",
-  "name": "Alyx's Cookies",
+  "name": "Juicey's Cookies",
   "description": "",
   "authors": [],
   "contact": {
@@ -13,7 +13,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.juiceybeans.cookies.AlyxCookies"
+      "com.juiceybeans.cookies.JuiceyCookies"
     ]
   },
   "depends": {

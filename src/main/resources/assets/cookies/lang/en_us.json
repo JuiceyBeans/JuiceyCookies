@@ -3,5 +3,10 @@
   "item.cookies.cookie_base": "Reagent-infused Cookie Base",
   "item.cookies.jumalu_cookie": "The JuMaLu Cookie",
   "item.cookies.lili_cookie": "The Cookie of Lilirine.",
-  "item.cookies.robyn_cookie": "Robyn's Cookie"
+  "item.cookies.robyn_cookie": "Robyn's Cookie",
+  "item.cookies.suzy_cookie": "The Best Su(s)zy Cookie",
+  "item.cookies.val_cookie": "Maple Cookie",
+  "item.cookies.spixy_cookie": "Raesin Cookie",
+  "item.cookies.rae_gift": "Rae's Gift",
+  "death.attack.rae_gift": "%1$s received Rae's Gift."
 }

@@ -1,0 +1,6 @@
+{
+  "death_message_type": "rae_gift",
+  "message_id": "raegift",
+  "scaling": "when_caused_by_living_non_player",
+  "exhaustion": 0.1
+}
