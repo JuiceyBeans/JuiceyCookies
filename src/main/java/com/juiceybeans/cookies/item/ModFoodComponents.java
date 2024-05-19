@@ -17,10 +17,6 @@ public class ModFoodComponents {
             .hunger(3).saturationModifier(1F)
             .statusEffect(new StatusEffectInstance(StatusEffects.SPEED, 40, 9), 1F)
             .build();
-    public static final FoodComponent LILI_COOKIE = new FoodComponent.Builder()
-            .hunger(5).saturationModifier(1F)
-            .statusEffect(new StatusEffectInstance(StatusEffects.POISON, 200, 0), 0.5F)
-                    .build();
 
     public static final FoodComponent ROBYN_COOKIE = new FoodComponent.Builder()
             .hunger(5).saturationModifier(1F)

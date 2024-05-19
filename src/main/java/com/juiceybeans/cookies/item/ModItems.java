@@ -24,7 +24,6 @@ public class ModItems {
     public static void addItemsToItemGroup() {
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.FOOD_AND_DRINK).register(entries -> entries.addBefore(Items.COOKIE, ModItems.COOKIE_BASE));
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.FOOD_AND_DRINK).register(entries -> entries.addAfter(Items.COOKIE, ModItems.JUMALU_COOKIE));
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.FOOD_AND_DRINK).register(entries -> entries.addAfter(Items.COOKIE, ModItems.LILI_COOKIE));
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.FOOD_AND_DRINK).register(entries -> entries.addAfter(Items.COOKIE, ModItems.ROBYN_COOKIE));
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.FOOD_AND_DRINK).register(entries -> entries.addAfter(Items.COOKIE, ModItems.SUZY_COOKIE));
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.FOOD_AND_DRINK).register(entries -> entries.addAfter(Items.COOKIE, ModItems.VAL_COOKIE));
@@ -40,13 +39,12 @@ public class ModItems {
         JuiceyCookies.LOGGER.info("Finished adding all cookies!");
     }
     public static final Item JUMALU_COOKIE = registerItem("jumalu_cookie", new Item(new FabricItemSettings().food(ModFoodComponents.JUMALU_COOKIE).rarity(Rarity.UNCOMMON).maxCount(8)));
-    public static final Item LILI_COOKIE = registerItem("lili_cookie", new Item(new FabricItemSettings().food(ModFoodComponents.LILI_COOKIE).rarity(Rarity.UNCOMMON).maxCount(8)));
     public static final Item ROBYN_COOKIE = registerItem("robyn_cookie", new Item(new FabricItemSettings().food(ModFoodComponents.ROBYN_COOKIE).rarity(Rarity.UNCOMMON).maxCount(8)));
-
     public static final Item SUZY_COOKIE = registerItem("suzy_cookie", new Item(new FabricItemSettings().food(ModFoodComponents.SUZY_COOKIE).rarity((Rarity.UNCOMMON)).maxCount(8)));
     public static final Item VAL_COOKIE = registerItem("val_cookie", new Item(new FabricItemSettings().food(ModFoodComponents.VAL_COOKIE).rarity((Rarity.UNCOMMON)).maxCount(8)));
     public static final Item SPIXY_COOKIE = registerItem("spixy_cookie", new Item(new FabricItemSettings().food(ModFoodComponents.SPIXY_COOKIE).rarity((Rarity.UNCOMMON)).maxCount(8)));
     public static final Item RAE_GIFT = registerItem("rae_gift", new Item(new FabricItemSettings().food(ModFoodComponents.RAE_GIFT).rarity((Rarity.UNCOMMON)).maxCount(8)));
+    
     public static final Item COOKIE_REAGENT = registerItem("cookie_reagent", new Item(new FabricItemSettings().rarity(Rarity.RARE)));
     public static final Item COOKIE_BASE = registerItem("cookie_base", new Item(new FabricItemSettings().food(ModFoodComponents.COOKIE_BASE).rarity(Rarity.UNCOMMON)));
 }
